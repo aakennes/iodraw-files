@@ -33,11 +33,6 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-26" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;创建 Chess&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Frame, Panel&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;初始化 Model&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;绘制棋盘&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="h3hal-gPkMwtOLfnbFdM-9" vertex="1">
           <mxGeometry x="19.999999999999545" y="120" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="h3hal-gPkMwtOLfnbFdM-9" source="dNxyNK7c78bLwvsdeMH5-26" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="59.999999999999545" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="h3hal-gPkMwtOLfnbFdM-9" vertex="1">
           <mxGeometry x="19.999999999999545" y="310" width="80" height="60" as="geometry" />
         </mxCell>
@@ -61,11 +56,10 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="h3hal-gPkMwtOLfnbFdM-10" vertex="1">
           <mxGeometry x="29.999999999999545" y="210" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-36" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="h3hal-gPkMwtOLfnbFdM-10" vertex="1">
-          <mxGeometry x="49.999999999999545" y="130" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="h3hal-gPkMwtOLfnbFdM-10" source="dNxyNK7c78bLwvsdeMH5-34" target="dNxyNK7c78bLwvsdeMH5-36" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="h3hal-gPkMwtOLfnbFdM-10" source="dNxyNK7c78bLwvsdeMH5-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="69.99999999999955" y="170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="h3hal-gPkMwtOLfnbFdM-16" value="Model" style="swimlane;startSize=20;html=1;" vertex="1" parent="h3hal-gPkMwtOLfnbFdM-7">
           <mxGeometry x="360" y="20" width="120" height="620" as="geometry" />
@@ -84,12 +78,13 @@
             <mxPoint x="199.99999999999955" y="260" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="h3hal-gPkMwtOLfnbFdM-7" source="dNxyNK7c78bLwvsdeMH5-26" target="dNxyNK7c78bLwvsdeMH5-36" edge="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="h3hal-gPkMwtOLfnbFdM-7" source="dNxyNK7c78bLwvsdeMH5-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="250" y="170" />
               <mxPoint x="250" y="170" />
             </Array>
+            <mxPoint x="289.99999999999955" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h3hal-gPkMwtOLfnbFdM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="h3hal-gPkMwtOLfnbFdM-7" source="dNxyNK7c78bLwvsdeMH5-24" target="dNxyNK7c78bLwvsdeMH5-26">
