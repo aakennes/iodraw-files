@@ -42,9 +42,9 @@
         <mxCell id="GNf-RRR90SGR_BoYWIae-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GNf-RRR90SGR_BoYWIae-1" target="GNf-RRR90SGR_BoYWIae-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GNf-RRR90SGR_BoYWIae-12" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GNf-RRR90SGR_BoYWIae-11">
+        <mxCell id="GNf-RRR90SGR_BoYWIae-12" value="判断网络信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GNf-RRR90SGR_BoYWIae-11">
           <mxGeometry x="-0.1076" y="1" relative="1" as="geometry">
-            <mxPoint x="-21" as="offset" />
+            <mxPoint x="-41" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GNf-RRR90SGR_BoYWIae-1" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Model 层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
