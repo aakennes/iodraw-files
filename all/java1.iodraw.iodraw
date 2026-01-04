@@ -31,11 +31,10 @@
         <mxCell id="GNf-RRR90SGR_BoYWIae-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GNf-RRR90SGR_BoYWIae-0" target="GNf-RRR90SGR_BoYWIae-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GNf-RRR90SGR_BoYWIae-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GNf-RRR90SGR_BoYWIae-0" target="GNf-RRR90SGR_BoYWIae-2">
+        <mxCell id="GNf-RRR90SGR_BoYWIae-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GNf-RRR90SGR_BoYWIae-0" target="GNf-RRR90SGR_BoYWIae-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="390" y="220" />
-              <mxPoint x="560" y="220" />
+              <mxPoint x="390" y="215" />
             </Array>
           </mxGeometry>
         </mxCell>
