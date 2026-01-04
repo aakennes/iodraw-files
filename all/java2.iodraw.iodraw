@@ -107,16 +107,19 @@
         <mxCell id="h3hal-gPkMwtOLfnbFdM-55" value="拍摄悔棋&lt;div&gt;快照&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="h3hal-gPkMwtOLfnbFdM-16">
           <mxGeometry x="50" y="395" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="h3hal-gPkMwtOLfnbFdM-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="h3hal-gPkMwtOLfnbFdM-16" source="h3hal-gPkMwtOLfnbFdM-61" target="h3hal-gPkMwtOLfnbFdM-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h3hal-gPkMwtOLfnbFdM-61" value="执行落子" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="h3hal-gPkMwtOLfnbFdM-16">
           <mxGeometry x="49.999999999999545" y="470" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h3hal-gPkMwtOLfnbFdM-70" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;游戏是&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;否结束&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="h3hal-gPkMwtOLfnbFdM-16">
-          <mxGeometry x="55" y="560" width="60" height="60" as="geometry" />
+          <mxGeometry x="60" y="560" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h3hal-gPkMwtOLfnbFdM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="h3hal-gPkMwtOLfnbFdM-7" source="dNxyNK7c78bLwvsdeMH5-24" target="dNxyNK7c78bLwvsdeMH5-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h3hal-gPkMwtOLfnbFdM-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="h3hal-gPkMwtOLfnbFdM-7" source="h3hal-gPkMwtOLfnbFdM-52" target="h3hal-gPkMwtOLfnbFdM-46">
+        <mxCell id="h3hal-gPkMwtOLfnbFdM-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="h3hal-gPkMwtOLfnbFdM-7" source="h3hal-gPkMwtOLfnbFdM-52" target="h3hal-gPkMwtOLfnbFdM-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h3hal-gPkMwtOLfnbFdM-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="h3hal-gPkMwtOLfnbFdM-7" source="dNxyNK7c78bLwvsdeMH5-24" target="h3hal-gPkMwtOLfnbFdM-52">
