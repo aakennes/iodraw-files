@@ -84,10 +84,10 @@
         <mxCell id="h3hal-gPkMwtOLfnbFdM-7" value="单机对战流程图" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
           <mxGeometry x="610.0000000000005" y="120" width="480" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="h3hal-gPkMwtOLfnbFdM-8" value="Lane 1" style="swimlane;startSize=20;html=1;" vertex="1" parent="h3hal-gPkMwtOLfnbFdM-7">
+        <mxCell id="h3hal-gPkMwtOLfnbFdM-8" value="玩家" style="swimlane;startSize=20;html=1;" vertex="1" parent="h3hal-gPkMwtOLfnbFdM-7">
           <mxGeometry y="20" width="120" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="h3hal-gPkMwtOLfnbFdM-9" value="Lane 2" style="swimlane;startSize=20;html=1;" vertex="1" parent="h3hal-gPkMwtOLfnbFdM-7">
+        <mxCell id="h3hal-gPkMwtOLfnbFdM-9" value="GUI" style="swimlane;startSize=20;html=1;" vertex="1" parent="h3hal-gPkMwtOLfnbFdM-7">
           <mxGeometry x="120" y="20" width="120" height="460" as="geometry" />
         </mxCell>
         <mxCell id="h3hal-gPkMwtOLfnbFdM-10" value="Lane 3" style="swimlane;startSize=20;html=1;" vertex="1" parent="h3hal-gPkMwtOLfnbFdM-7">
