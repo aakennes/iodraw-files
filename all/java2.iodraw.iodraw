@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="h3hal-gPkMwtOLfnbFdM-7" value="单机对战流程图" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610.0000000000005" y="120" width="480" height="480" as="geometry" />
+          <mxGeometry x="610" y="80" width="480" height="640" as="geometry" />
         </mxCell>
         <mxCell id="h3hal-gPkMwtOLfnbFdM-8" value="玩家" style="swimlane;startSize=20;html=1;" vertex="1" parent="h3hal-gPkMwtOLfnbFdM-7">
-          <mxGeometry y="20" width="120" height="460" as="geometry">
+          <mxGeometry y="20" width="120" height="620" as="geometry">
             <mxRectangle y="20" width="40" height="460" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -28,7 +28,7 @@
           <mxGeometry x="19.999999999999545" y="230" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h3hal-gPkMwtOLfnbFdM-9" value="GUI" style="swimlane;startSize=20;html=1;" vertex="1" parent="h3hal-gPkMwtOLfnbFdM-7">
-          <mxGeometry x="120" y="20" width="120" height="460" as="geometry" />
+          <mxGeometry x="120" y="20" width="120" height="620" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-26" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;创建 Chess&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Frame, Panel&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;初始化 Model&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;绘制棋盘&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="h3hal-gPkMwtOLfnbFdM-9" vertex="1">
           <mxGeometry x="19.999999999999545" y="120" width="80" height="60" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="19.999999999999545" y="220" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h3hal-gPkMwtOLfnbFdM-10" value="Controller" style="swimlane;startSize=20;html=1;" vertex="1" parent="h3hal-gPkMwtOLfnbFdM-7">
-          <mxGeometry x="240" y="20" width="120" height="460" as="geometry" />
+          <mxGeometry x="240" y="20" width="120" height="620" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="h3hal-gPkMwtOLfnbFdM-10" vertex="1">
           <mxGeometry x="29.999999999999545" y="210" width="80" height="60" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h3hal-gPkMwtOLfnbFdM-16" value="Model" style="swimlane;startSize=20;html=1;" vertex="1" parent="h3hal-gPkMwtOLfnbFdM-7">
-          <mxGeometry x="360" y="20" width="120" height="460" as="geometry" />
+          <mxGeometry x="360" y="20" width="120" height="620" as="geometry" />
         </mxCell>
         <mxCell id="h3hal-gPkMwtOLfnbFdM-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="h3hal-gPkMwtOLfnbFdM-16">
           <mxGeometry x="19.999999999999545" y="130" width="80" height="60" as="geometry" />
