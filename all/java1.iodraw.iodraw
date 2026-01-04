@@ -48,7 +48,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GNf-RRR90SGR_BoYWIae-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GNf-RRR90SGR_BoYWIae-1" target="GNf-RRR90SGR_BoYWIae-0">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="80" />
+              <mxPoint x="390" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNf-RRR90SGR_BoYWIae-16" value="返回逻辑处理结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GNf-RRR90SGR_BoYWIae-15">
+          <mxGeometry x="0.0861" y="1" relative="1" as="geometry">
+            <mxPoint y="9" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="GNf-RRR90SGR_BoYWIae-1" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Model 层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="120" width="120" height="50" as="geometry" />
